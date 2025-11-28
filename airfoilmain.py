@@ -34,6 +34,7 @@ def coordinates(folder:str):
 
     return x,y,coords
 
+
 def plotter(folder:str):
     x, y, _ = coordinates(folder)
 
